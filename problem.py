@@ -1,6 +1,7 @@
 import math
 import heapq
-
+import numpy as np
+import random
 class Node:
     # constructor for each node
     def __init__(self ,graph ,node, osmid, distance = 0, parent = None):
@@ -153,3 +154,12 @@ class PriorityQueue:
         except ValueError:
             raise KeyError(str(key) + " is not in the priority queue")
         heapq.heapify(self.heap)
+
+# for simulated annealing
+def exp_schedule(k=20, lam=0.005, limit=100):
+    """One possible schedule function for simulated annealing"""
+    return lambda t: (k * np.exp(-lam * t) if t < limit else 0)
+
+def probability(p):
+    """Return true with probability p."""
+    return p > random.uniform(0.0, 1.0)
