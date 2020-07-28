@@ -163,3 +163,4 @@ def exp_schedule(k=20, lam=0.005, limit=100):
 def probability(p):
     """Return true with probability p."""
     return p > random.uniform(0.0, 1.0)
+
