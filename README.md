@@ -18,4 +18,3 @@
 
 ## Case Study Notebook
 
-- [ ] GIS Routing
