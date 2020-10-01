@@ -14,15 +14,15 @@ Trajectory-based metaheuristic search algorithms such as simulated annealing use
 
 - Simulated Annealing
 
-- Tabu Search
+- Tabu Search :hourglass:
 
-- Iterated Local Search (ILS)
+- Iterated Local Search (ILS) :hourglass:
 
-- Guided Local Search (GLS)
+- Guided Local Search (GLS) :hourglass:
 
-- Greedy Randomized Adaptive Search Procedure (GRASP)
+- Greedy Randomized Adaptive Search Procedure (GRASP) :hourglass:
 
-- Variable Neighbourhood Search (VNS)
+- Variable Neighbourhood Search (VNS) :hourglass:
 
 ---
 
@@ -36,4 +36,4 @@ Trajectory-based metaheuristic search algorithms such as simulated annealing use
 
 - Last-mile delivery
 
-- Ridesharing
+- Ridesharing :hourglass:
