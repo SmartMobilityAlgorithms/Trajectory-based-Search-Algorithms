@@ -12,17 +12,28 @@ Trajectory-based metaheuristic search algorithms such as simulated annealing use
 ---
 ## Algorithm Notebooks
 
-- Simulated Annealing
+- Simulated Annealing :white_check_mark:
 
-- [x] Tabu Search
+- Tabu Search :hourglass:
+
+- Iterated Local Search (ILS) :hourglass:
+
+- Guided Local Search (GLS) :hourglass:
+
+- Greedy Randomized Adaptive Search Procedure (GRASP) :hourglass:
+
+- Variable Neighbourhood Search (VNS) :hourglass:
 
 ---
 
 ## Toy Problem Notebooks
 
-- Travelling Salesman Problem
+- Travelling Salesman Problem :white_check_mark:
 
 ---
 
 ## Case Study Notebooks
-- Last-mile delivery
+
+- Last-mile delivery :white_check_mark:
+
+- Ridesharing :hourglass:
