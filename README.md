@@ -12,7 +12,7 @@ Trajectory-based metaheuristic search algorithms such as simulated annealing use
 ---
 ## Algorithm Notebooks
 
-- Simulated Annealing
+- Simulated Annealing :white_check_mark:
 
 - Tabu Search :hourglass:
 
@@ -28,12 +28,12 @@ Trajectory-based metaheuristic search algorithms such as simulated annealing use
 
 ## Toy Problem Notebooks
 
-- Travelling Salesman Problem
+- Travelling Salesman Problem :white_check_mark:
 
 ---
 
 ## Case Study Notebooks
 
-- Last-mile delivery
+- Last-mile delivery :white_check_mark:
 
 - Ridesharing :hourglass:
