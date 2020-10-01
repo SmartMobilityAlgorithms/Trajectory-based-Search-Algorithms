@@ -16,6 +16,14 @@ Trajectory-based metaheuristic search algorithms such as simulated annealing use
 
 - [x] Tabu Search
 
+- [x] Iterated Local Search (ILS)
+
+- [x] Guided Local Search (GLS)
+
+- [x] Greedy Randomized Adaptive Search Procedure (GRASP)
+
+- [x] Variable Neighbourhood Search (VNS)
+
 ---
 
 ## Toy Problem Notebooks
@@ -25,4 +33,7 @@ Trajectory-based metaheuristic search algorithms such as simulated annealing use
 ---
 
 ## Case Study Notebooks
+
 - Last-mile delivery
+
+- Ridesharing
