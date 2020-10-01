@@ -14,15 +14,15 @@ Trajectory-based metaheuristic search algorithms such as simulated annealing use
 
 - Simulated Annealing
 
-- [x] Tabu Search
+- Tabu Search
 
-- [x] Iterated Local Search (ILS)
+- Iterated Local Search (ILS)
 
-- [x] Guided Local Search (GLS)
+- Guided Local Search (GLS)
 
-- [x] Greedy Randomized Adaptive Search Procedure (GRASP)
+- Greedy Randomized Adaptive Search Procedure (GRASP)
 
-- [x] Variable Neighbourhood Search (VNS)
+- Variable Neighbourhood Search (VNS)
 
 ---
 
