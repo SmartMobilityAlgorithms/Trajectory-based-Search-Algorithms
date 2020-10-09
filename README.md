@@ -36,4 +36,4 @@ Trajectory-based metaheuristic search algorithms such as simulated annealing use
 
 - Last-mile delivery :white_check_mark:
 
-- Ridesharing :white_check_mark:
+- Ridesharing :hourglass:
